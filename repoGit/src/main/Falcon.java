@@ -8,6 +8,6 @@ package main;
  *
  * @author marti
  */
-public class FalconAlejandro {
+public class Falcon {
     String a;
 }
