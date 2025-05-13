@@ -6,10 +6,8 @@ package main;
 
 /**
  *
- * @author Jorge
+ * @author marti
  */
-public class Sailema {
-    
-    String sailema = "hola";
-    String saludo;
+public class Falcon {
+    String a;
 }
