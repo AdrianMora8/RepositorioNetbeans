@@ -9,5 +9,8 @@ package main;
  * @author oarm8
  */
 public class java {
-    
+   
+    public void AlanHOla(){
+        System.out.println("Alan Mateo");
+    }
 }
