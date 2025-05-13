@@ -8,6 +8,6 @@ package main;
  *
  * @author oarm8
  */
-public class java {
-    
+public class Riofrio {
+    String Riofrio;
 }
