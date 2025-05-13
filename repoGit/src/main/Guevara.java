@@ -11,7 +11,7 @@ package main;
 public class Guevara {
 
     public Guevara() {
-        System.out.println("Marlon Guevara Computacion visual");
+        System.out.println("Marlon Guevara Computacion visual as");
     }
     
     
