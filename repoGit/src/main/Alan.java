@@ -6,8 +6,11 @@ package main;
 
 /**
  *
- * @author oarm8
+ * @author PERSONAL
  */
-public class java {
+public class Alan {
     
+    public void HolaAlan(){
+        System.out.println("Hola a todos");
+    }
 }
