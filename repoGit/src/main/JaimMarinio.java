@@ -11,4 +11,5 @@ package main;
 public class JaimMarinio {
     //Hola
     String a;
+    String b;
 }
